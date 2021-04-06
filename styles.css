@@ -1,0 +1,23 @@
+
+body{
+  text-align: center;
+  background-color: #caf7e3;
+  font-family: 'Dancing Script', cursive;
+  color: #364547;
+  font-weight: bold;
+}
+
+table{
+  margin: auto;
+}
+ h1{
+   padding: 20px 100px;
+   font-size: 5rem;
+ }
+ td{
+   padding: 30px;
+   font-size: 2rem;
+ }
+ footer{
+   padding-bottom: 0;
+ }
