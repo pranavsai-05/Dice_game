@@ -5,13 +5,13 @@ var player2= Math.floor(Math.random()*6) + 1;
 
 
 
-var randomDiceImg1= "images/dice"+player1+".png";
+var randomDiceImg1= "dice"+player1+".png";
 var image1= document.querySelectorAll("img")[0];
 image1.setAttribute("src", randomDiceImg1);
 
 
 
-var randomDiceImg2= "images/dice"+player2+".png";
+var randomDiceImg2= "dice"+player2+".png";
 var image2= document.querySelectorAll("img")[1];
 
 image2.setAttribute("src", randomDiceImg2);
